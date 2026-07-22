@@ -1,0 +1,7 @@
+# KWCS microdata must not be redistributed (KOSHA terms) — keep locally only
+input/
+output/
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

@@ -1,5 +1,8 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-shap
+# Pinned to the environment that produced the reported results
+# (determinism verified: two clean runs → byte-identical tables and figures)
+# python==3.13.6
+numpy==2.2.0
+pandas==2.3.3
+scikit-learn==1.6.1
+shap==0.48.0
+matplotlib==3.10.8
